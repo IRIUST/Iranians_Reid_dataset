@@ -20,6 +20,9 @@ Currently, more than 270,000 frames containing 32,668 annotated border boxes wit
 First, it uses the YOLO model trained on the COCO dataset as a pedestrian detector.
 Second, it uses the ByteTrack model trained on the Crowd HumanN dataset as pedestrian tracking.
 Third, because the above artificial intelligence models may not have sufficient efficiency (such as not detection when entering and leaving the camera range, not detection veiled people, not detection pedestrians' equipment, or ID Switching, etc.), human annotators modify the annotations made so that the least possible bugs occur in the training of the models in terms of the dataset.
+To know the details of annotation rules, you can refer to the following link:
+
+https://docs.google.com/document/d/1rZ8E1QVWvn_c9F-WZDP7kzvAkSqddh-mRWyCYfB-iZY/edit?usp=sharing
 
 ### Download dataset
 The dataset package is can be downloaded from any of the following links:
