@@ -2,6 +2,8 @@
 
 This dataset is being completed...
 
+![1](https://github.com/IRIUST/Iranians_Reid_dataset/assets/141324225/d999a1eb-6f09-466e-8d61-9a2689a314d2)
+
 ### About dataset
 
 The IRIUST dataset is different from the international datasets and has been prepared according to the culture and environment of Iran. Also, it has been tried to record raw dataset movies from places and conditions that maintain a range of challenges (quality of movies, amount of light, diversity, etc. ) in the dataset. Field-of-view overlap exists among different cameras. Therefore, this dataset can be a good representative of the real world dataset.
