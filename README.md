@@ -18,7 +18,7 @@ These videos were recorded by cameras with different resolution quality in place
 Currently, more than 270,000 frames containing 32,668 annotated border boxes with 1501 identities have been annotated among the prepared raw videos.Also, in terms of gender, this dataset contains 50 female identities and 20 male identities. The IRIUST dataset has four salient features:
 
 First, it uses the YOLO model trained on the COCO dataset as a pedestrian detector.
-Second, it uses the ByteTrack model trained on the Crowd HumanN dataset as pedestrian tracking.
+Second, it uses the ByteTrack model trained on the Crowd Human dataset as pedestrian tracking.
 Third, it uses the Gender Classification model trained on a portion of the same dataset as gender detector.
 Fourth, because the above artificial intelligence models may not have sufficient efficiency (such as not detection when entering and leaving the camera range, not detection veiled people, not detection pedestrians' equipment, or ID Switching, etc.), human annotators modify the annotations made so that the least possible bugs occur in the training of the models in terms of the dataset.
 To know the details of annotation rules, you can refer to the following link:
