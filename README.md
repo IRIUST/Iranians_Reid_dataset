@@ -27,7 +27,12 @@ Third, it uses the Gender Classification model trained on a portion of the same 
 Fourth, because the above artificial intelligence models may not have sufficient efficiency (such as not detection when entering and leaving the camera range, not detection veiled people, not detection pedestrians' equipment, or ID Switching, etc.), human annotators modify the annotations made so that the least possible bugs occur in the training of the models in terms of the dataset.
 To know the details of annotation rules, you can refer to the following link:
 
-https://docs.google.com/document/d/1rZ8E1QVWvn_c9F-WZDP7kzvAkSqddh-mRWyCYfB-iZY/edit?usp=sharing
+https://docs.google.com/document/d/1rZ8E1QVWvn_c9F-WZD
+
+In the demo below, the reason for the inadequacy of using artificial intelligence models is obvious
+https://github.com/IRIUST/Iranians_Reid_dataset/assets/141324225/fde81249-5d40-4a11-9be4-2117e11c2896
+
+P7kzvAkSqddh-mRWyCYfB-iZY/edit?usp=sharing
 
 Also, this dataset includes images of people who are not in front of the camera with the same clothes.
 Pay attention to the image below, this identity was present in several frames with a tent and in the rest of the frames with a mantle.
