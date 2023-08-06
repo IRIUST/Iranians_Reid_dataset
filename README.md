@@ -2,7 +2,9 @@
 
 This dataset is being completed...
 
-![1](https://github.com/IRIUST/Iranians_Reid_dataset/assets/141324225/d999a1eb-6f09-466e-8d61-9a2689a314d2)
+
+![1](https://github.com/IRIUST/Iranians_Reid_dataset/assets/141324225/782122d5-235a-4314-9d81-7eceec56c960)
+
 
 ### About dataset
 
@@ -26,6 +28,11 @@ Fourth, because the above artificial intelligence models may not have sufficient
 To know the details of annotation rules, you can refer to the following link:
 
 https://docs.google.com/document/d/1rZ8E1QVWvn_c9F-WZDP7kzvAkSqddh-mRWyCYfB-iZY/edit?usp=sharing
+
+Also, this dataset includes images of people who are not in front of the camera with the same clothes.
+Pay attention to the image below, this identity was present in several frames with a tent and in the rest of the frames with a mantle.
+
+![2](https://github.com/IRIUST/Iranians_Reid_dataset/assets/141324225/ec09a671-b130-408a-aaa5-c405d2d81c08)
 
 ### Download dataset
 The dataset package is can be downloaded from any of the following links:
